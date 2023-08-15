@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on:  [python-django-webapp-template](https://github.com/PascalMalz/python-django-webapp-template)
 
-- 👨‍💻 Some my projects are available at:  [https://pascalmalz.com/](https://pascalmalz.com/)
+- 👨‍💻 Some of my projects are available at:  [https://pascalmalz.com/](https://pascalmalz.com/)
 
 - 💬 Ask me about:  Data Structures / Algorithms, Django, Salesforce
 
